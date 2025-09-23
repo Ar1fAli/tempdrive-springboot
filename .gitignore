@@ -1,0 +1,22 @@
+#Maven
+target/
+.DS_Store
+Thumb.db
+
+#logs
+*.log
+
+#Environment
+*.env
+*.local
+
+# Test reports
+test-output/
+surefire-reports/
+
+#IDE
+*.iml
+.idea/
+
+
+
